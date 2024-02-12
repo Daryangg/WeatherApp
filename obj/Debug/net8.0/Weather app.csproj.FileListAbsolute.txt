@@ -1,0 +1,35 @@
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\bin\Debug\net8.0\appsettings.json
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\bin\Debug\net8.0\Weather app.staticwebassets.runtime.json
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\bin\Debug\net8.0\Weather app.exe
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\bin\Debug\net8.0\Weather app.deps.json
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\bin\Debug\net8.0\Weather app.runtimeconfig.json
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\bin\Debug\net8.0\Weather app.dll
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\bin\Debug\net8.0\Weather app.pdb
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\obj\Debug\net8.0\Weather app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\obj\Debug\net8.0\Weather app.AssemblyInfoInputs.cache
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\obj\Debug\net8.0\Weather app.AssemblyInfo.cs
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\obj\Debug\net8.0\Weather app.csproj.CoreCompileInputs.cache
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\obj\Debug\net8.0\Weather app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\obj\Debug\net8.0\Weather app.RazorAssemblyInfo.cache
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\obj\Debug\net8.0\Weather app.RazorAssemblyInfo.cs
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\obj\Debug\net8.0\staticwebassets\msbuild.Weather app.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\obj\Debug\net8.0\staticwebassets\msbuild.build.Weather app.props
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Weather app.props
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Weather app.props
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\obj\Debug\net8.0\scopedcss\bundle\Weather app.styles.css
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\obj\Debug\net8.0\scopedcss\projectbundle\Weather app.bundle.scp.css
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\obj\Debug\net8.0\Weather app.dll
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\obj\Debug\net8.0\refint\Weather app.dll
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\obj\Debug\net8.0\Weather app.pdb
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\obj\Debug\net8.0\Weather app.genruntimeconfig.cache
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\obj\Debug\net8.0\ref\Weather app.dll
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\obj\Debug\net8.0\Weather app.csproj.AssemblyReference.cache
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\bin\Debug\net8.0\Flurl.dll
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\bin\Debug\net8.0\Flurl.Http.dll
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\obj\Debug\net8.0\Weather app.csproj.CopyComplete
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\bin\Debug\net8.0\Newtonsoft.Json.dll
