@@ -33,3 +33,4 @@ C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\bin\Debu
 C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\bin\Debug\net8.0\Flurl.Http.dll
 C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\obj\Debug\net8.0\Weather app.csproj.CopyComplete
 C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\darya\OneDrive\Documents\Projects\.net\weather-api\Weather app\obj\Debug\net8.0\Weather app.sourcelink.json

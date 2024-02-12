@@ -2,16 +2,17 @@ namespace Weather_app.Services;
 
 using System;
 using System.Net.Http;
+using System.Reflection.Metadata;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
 using Weather_app.Models;
 
-public class AccessWeather
+public class AccessWeatherService
 {
     private const string WeatherApiBaseUrl = "http://api.weatherapi.com/v1";
     private readonly HttpClient _httpClient;
 
-    public AccessWeather()
+    public AccessWeatherService()
     {
         _httpClient = new HttpClient { BaseAddress = new Uri(WeatherApiBaseUrl) };
     }
@@ -20,8 +21,10 @@ public class AccessWeather
     {
         try
         {
-            string apiKey = "956a75f60e2c49188ee175638241102";
-            string endpoint = $"http://api.weatherapi.com/v1/current.json?key={apiKey}&q={location}";
+
+            string apiKey = AppConstans.WeatherApiKey;
+            string apiUrl = AppConstans.WeatherApiUrl;
+            string endpoint = $"{apiUrl}{apiKey}&q={location}";
 
             HttpResponseMessage response = await _httpClient.GetAsync(endpoint);
 
@@ -33,7 +36,6 @@ public class AccessWeather
             }
             else
             {
-                // Manejar el caso de respuesta no exitosa según sea necesario
                 Console.WriteLine($"Error al obtener los datos del clima. Código de estado: {response.StatusCode}");
                 return null;
             }
